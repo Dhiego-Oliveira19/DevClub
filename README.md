@@ -9,7 +9,7 @@
 <br>
 <br>
 <h2> Mobile easy shopping:Desktop </h2>
-<br
+<br>
 <img src="https://github.com/Dhiego-Oliveira19/DevClub/blob/main/assets/img/desktop%20easy%20shopping.png?raw=true">
 <br>
 <br>
